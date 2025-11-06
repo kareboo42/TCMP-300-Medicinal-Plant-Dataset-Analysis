@@ -64,4 +64,17 @@ Each figure is accompanied by Markdown commentary summarizing key insights.
 
 ---
 
-## 📁 Project Structure  
+## 🧠 Domain Relevance  
+This project demonstrates the intersection of **biomedical data science** and **traditional medicine**.  
+It reflects core skills in:
+- Data cleaning and visualization  
+- Biological dataset interpretation  
+- Communicating scientific findings in code and narrative  
+
+---
+
+## 📚 Citation  
+If referencing this dataset:  
+Yang et al., 2025. *TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition.* *Nature Scientific Data.*  
+DOI: [10.6084/m9.figshare.29432726](https://doi.org/10.6084/m9.figshare.29432726)
+
