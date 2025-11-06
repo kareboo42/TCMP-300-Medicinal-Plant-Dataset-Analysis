@@ -1,6 +1,6 @@
 # 🌿 TCMP-300 Medicinal Plant Dataset Analysis  
-**Author:** [Your Name]  
-**Date:** [Month Year]  
+**Author:** Karen Ayetiwa  
+**Date:** November, 2025  
 
 ---
 
